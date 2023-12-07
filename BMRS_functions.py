@@ -44,3 +44,9 @@ def send_elexon_request(req: ElexonRequest) -> pd.DataFrame:
     data = data.dropna(axis=0, subset=['SettlementDate'])
 
     return data
+
+# function to combine functions into one request
+def BMRS_request(report: str, date: str) -> pd.DataFrame:
+    req = ElexonRequest(report=report, date=date)
+    data = send_elexon_request(req)
+    return data
