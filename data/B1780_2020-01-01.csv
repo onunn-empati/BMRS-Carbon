@@ -1,0 +1,54 @@
+*
+*
+*AcceptedAggregatedOffersService(B1780) Data
+*
+*Time Series ID,Business Type,Control Area,Settlement Date,Settlement Period,"Imbalance Quantity (MAW)",Curve Type,Resolution,Document Type,Process Type,Active Flag,Document Status,Document ID,Document RevNum,Imbalance Quantity Direction
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,48,173.5351,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22444357,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,47,429.1559,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22444206,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,46,216.5072,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22444057,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,45,336.7556,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22443855,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,44,248.4147,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22443712,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,43,366.2125,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22443569,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,42,100.8333,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22443423,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,41,77.1037,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22443285,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,40,59.1689,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22443155,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,39,269.9905,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22443017,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,38,235.6168,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22442869,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,37,428.5103,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22442707,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,36,247.5229,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22442570,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,35,308.4018,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22442437,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,34,257.5027,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22442308,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,33,392.8793,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22442221,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,32,166.0096,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22442095,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,31,-14.0069,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22441917,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,30,-140.0646,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22441782,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,29,86.4905,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22441661,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,28,268.7249,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22441535,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,27,434.475,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22441396,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,26,348.9,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22441253,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,25,314.2309,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22441124,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,24,-86.2058,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22441012,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,23,-7.0206,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22440863,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,22,44.7275,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22440705,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,21,141.0951,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22440572,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,20,2.0799,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22440419,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,19,188.995,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22440297,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,18,175.8663,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22440174,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,17,112.3367,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22440042,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,16,106.3583,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22439915,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,15,-7.6845,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22439745,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,14,145.2502,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22439622,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,13,-28.0957,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22439489,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,12,-225.6682,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22439361,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,11,-321.812,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22439245,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,10,-102.3296,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22439112,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,9,-45.8102,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22438976,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,8,34.4103,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22438823,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,7,155.8685,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22438699,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,6,-140.4158,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22438578,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,5,-90.9042,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22438445,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,4,-122.2322,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22438319,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,3,-71.4292,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22438190,1,DEFICIT
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,2,194.7133,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22438071,1,SURPLUS
+ELX-EMFIP-AIMBV-TS-1,Balance energy deviation,10YGB----------A,2020-01-01,1,54.3365,Sequential fixed size block,PT30M,Imbalance volume,Realised,Y,Final,ELX-EMFIP-AIMBV-22437929,1,SURPLUS
+<EOF>
