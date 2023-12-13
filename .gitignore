@@ -1,4 +1,8 @@
 # virtual environment
 .venv
+
+# api keys
 secret.py
+
+# datasets
 data
